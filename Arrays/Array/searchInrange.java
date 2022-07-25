@@ -1,3 +1,5 @@
+package Arrays.Array;
+
 public class searchInrange {
     public static void main(String[] args) {
         int[] arr = {1,23,45,87,-23,89};

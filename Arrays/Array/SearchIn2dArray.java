@@ -1,3 +1,5 @@
+package Arrays.Array;
+
 import java.util.Arrays;
 class Search2dArray {
     public static void main(String[] args) {

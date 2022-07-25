@@ -1,3 +1,5 @@
+package Arrays.Array;
+
 public class maximunInRange {
     public static void main(String[] args) {
         int[] arr = {223,45,67,92,1};
